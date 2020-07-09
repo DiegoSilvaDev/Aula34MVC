@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\bin\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\MVC\obj\Debug\netcoreapp3.1\MVC.genruntimeconfig.cache
